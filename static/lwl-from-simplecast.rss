@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://feeds.simplecast.com/jtpcol_C" rel="self" title="MP3 Audio" type="application/atom+xml"/>
+    <atom:link href="https://simplecast.superfeedr.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
+    <generator>https://simplecast.com</generator>
+    <title>Lunch with Lyle</title>
+    <description>Inspired by fun-a-day, this daily podcast is a long form discussion around the  human condition esp. around how we thrive as humans while engaging with technology.  Join Lyle Troxell and his guests.</description>
+    <copyright>2022 Creative Commons, Share and Share Alike</copyright>
+    <language>en</language>
+    <pubDate>Tue, 1 Feb 2022 07:55:00 +0000</pubDate>
+    <lastBuildDate>Tue, 1 Feb 2022 23:31:38 +0000</lastBuildDate>
+    <image>
+      <link>https://lwl.troxell.com</link>
+      <title>Lunch with Lyle</title>
+      <url>https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/8481bb5d-f076-4e32-a449-da25534bb123/3000x3000/lunch-with-lyle-logo.jpg?aid=rss_feed</url>
+    </image>
+    <link>https://lwl.troxell.com</link>
+    <itunes:type>serial</itunes:type>
+    <itunes:summary>Inspired by fun-a-day, this daily podcast is a long form discussion around the  human condition esp. around how we thrive as humans while engaging with technology.  Join Lyle Troxell and his guests.</itunes:summary>
+    <itunes:author>Lyle Troxell</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/8481bb5d-f076-4e32-a449-da25534bb123/3000x3000/lunch-with-lyle-logo.jpg?aid=rss_feed"/>
+    <itunes:new-feed-url>https://feeds.simplecast.com/jtpcol_C</itunes:new-feed-url>
+    <itunes:keywords>family, community, connection, music, social media</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Lyle Troxell</itunes:name>
+      <itunes:email>lyle@troxell.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Mental Health"/>
+    </itunes:category>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:category text="Arts"/>
+    <item>
+      <guid isPermaLink="false">b9a31d0c-5a3f-41cc-9fcc-78ca8bdab9bd</guid>
+      <title>Vast Beautiful Experience</title>
+      <description><![CDATA[Maggi Hoogs joins me to speak about Neurodiversity, Celiac Disease, and the lessons we learned from this fun-a-day podcast for the month of January 2022.]]></description>
+      <pubDate>Tue, 1 Feb 2022 07:55:00 +0000</pubDate>
+      <author>lyle@troxell.com (Lyle Troxell, Maggi Hoogs)</author>
+      <link>https://lwl.troxell.com/episodes/vast-beautiful-experience-B_rMPqfZ</link>
+      <enclosure length="55927272" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/4ac36aa8-a464-47a5-b200-820c126a5526/audio/ee3c03ec-cf04-4beb-946a-fffc8a71fd4d/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Vast Beautiful Experience</itunes:title>
+      <itunes:author>Lyle Troxell, Maggi Hoogs</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/76e833fc-92b4-406f-941d-6bcc243c5b9b/3000x3000/img-1277.jpg?aid=rss_feed"/>
+      <itunes:duration>01:56:17</itunes:duration>
+      <itunes:summary>Maggi Hoogs joins me to speak about Neurodiversity, Celiac Disease, and the lessons we learned from this fun-a-day podcast for the month of January 2022.</itunes:summary>
+      <itunes:subtitle>Maggi Hoogs joins me to speak about Neurodiversity, Celiac Disease, and the lessons we learned from this fun-a-day podcast for the month of January 2022.</itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>31</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">20c794e8-1ad0-441a-92e4-6df61929caea</guid>
+      <title>Looking Closely</title>
+      <description><![CDATA[Jennifer Gonzalez joins me for a discussion on looking at and researching Art, being an academic, getting comfortable with terms Latinx/Chicanx , specialization in the Humanities, Complexity and Civil Discourse, Profit and Art, Art vs Making, and what we decide to do and not do.]]></description>
+      <pubDate>Mon, 31 Jan 2022 07:40:00 +0000</pubDate>
+      <author>lyle@troxell.com (Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/looking-closely-SpG35dph</link>
+      <enclosure length="40906403" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/d79d9fcf-9137-4b89-81bb-4f48d5fb5ca1/audio/d29ca788-eaee-4516-af26-c172e2183a92/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Looking Closely</itunes:title>
+      <itunes:author>Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/d06d7606-609e-490e-970f-51e620d97501/3000x3000/img-1420.jpg?aid=rss_feed"/>
+      <itunes:duration>01:25:00</itunes:duration>
+      <itunes:summary>Jennifer Gonzalez joins me for a discussion on looking at and researching Art, being an academic, getting comfortable with terms Latinx/Chicanx , specialization in the Humanities, Complexity and Civil Discourse, Profit and Art, Art vs Making, and what we decide to do and not do.</itunes:summary>
+      <itunes:subtitle>Jennifer Gonzalez joins me for a discussion on looking at and researching Art, being an academic, getting comfortable with terms Latinx/Chicanx , specialization in the Humanities, Complexity and Civil Discourse, Profit and Art, Art vs Making, and what we decide to do and not do.</itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>30</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">992517cb-07c3-4e7c-a363-2bf2c0efd4d8</guid>
+      <title>Labor Land - something was wrong</title>
+      <description><![CDATA[After the birth of her son Raven Lang knew something was wrong with the medical structure around birth. Learning the right way to support a mother giving birth was a process of witnessing births and re-learning. From her and other women's experiences Raven helped spear head the Home Birth Midwifery movement.]]></description>
+      <pubDate>Sun, 30 Jan 2022 05:46:31 +0000</pubDate>
+      <author>lyle@troxell.com (Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/labor-land-something-was-wrong-uYk1NUhZ</link>
+      <enclosure length="46170153" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/841994e9-271c-4e66-89f8-8e85da4c060e/audio/8192e0cd-2460-4a43-8e99-5ddfd0b963de/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Labor Land - something was wrong</itunes:title>
+      <itunes:author>Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/c38def7b-47a6-48f2-b281-147ffd957258/3000x3000/ravenfortunaimg-1840.jpg?aid=rss_feed"/>
+      <itunes:duration>01:35:56</itunes:duration>
+      <itunes:summary>After the birth of her son Raven Lang knew something was wrong with the medical structure around birth. Learning the right way to support a mother giving birth was a process of witnessing births and re-learning. From her and other women&apos;s experiences Raven helped spear head the Home Birth Midwifery movement.</itunes:summary>
+      <itunes:subtitle>After the birth of her son Raven Lang knew something was wrong with the medical structure around birth. Learning the right way to support a mother giving birth was a process of witnessing births and re-learning. From her and other women&apos;s experiences Raven helped spear head the Home Birth Midwifery movement.</itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>29</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">2bf9aa1f-86c8-4b03-ab4b-da107cd384bd</guid>
+      <title>Other Currency</title>
+      <description><![CDATA[<ul><li><a href="https://www.wsj.com/articles/SB999563109926846614">Article from the Wall Street Journal on the turn-around of the Cabrillo Festival</a>.</li></ul>
+]]></description>
+      <pubDate>Sat, 29 Jan 2022 07:55:00 +0000</pubDate>
+      <author>lyle@troxell.com (Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/other-currency-EQMIfTJ2</link>
+      <content:encoded><![CDATA[<ul><li><a href="https://www.wsj.com/articles/SB999563109926846614">Article from the Wall Street Journal on the turn-around of the Cabrillo Festival</a>.</li></ul>
+]]></content:encoded>
+      <enclosure length="61509308" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/9f6526e7-6df8-4d00-b391-576903227424/audio/a1f0bd56-656c-47a7-b9bc-2d4b492957e9/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Other Currency</itunes:title>
+      <itunes:author>Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/9bff5b00-ff64-43ad-8a85-dc9c2f67229f/3000x3000/psexpress-2022-01-28-23-38-40-34.jpg?aid=rss_feed"/>
+      <itunes:duration>02:07:57</itunes:duration>
+      <itunes:summary>Tom Fredricks speaks of retirement and his very full career as a ballet dancer in New York and Switzerland, marketing and tour director for the Houston Ballet for ten years, and co-running the Santa Cruz based Cabrillo Festival of Contemporary Music for over 20 years including it&apos;s transformation from a bankrupt organization into the world renowned festival it is now.
+Tom studies undergraduate work at Notre Dame, and holds an MBA from Stanford Business School.</itunes:summary>
+      <itunes:subtitle>Tom Fredricks speaks of retirement and his very full career as a ballet dancer in New York and Switzerland, marketing and tour director for the Houston Ballet for ten years, and co-running the Santa Cruz based Cabrillo Festival of Contemporary Music for over 20 years including it&apos;s transformation from a bankrupt organization into the world renowned festival it is now.
+Tom studies undergraduate work at Notre Dame, and holds an MBA from Stanford Business School.</itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>28</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">9ef4aed2-4f08-4373-840a-e787056daf55</guid>
+      <title>Ecstatic Bliss</title>
+      <description><![CDATA[My mother Diana Wright Troxell is an artist and face painter - business owner. ]]></description>
+      <pubDate>Fri, 28 Jan 2022 07:00:00 +0000</pubDate>
+      <author>lyle@troxell.com (Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/ecstatic-bliss-jPOvL6S7</link>
+      <enclosure length="36226850" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/5553f48a-d41f-4a09-8109-21938161d081/audio/187bf285-4020-4cbe-824e-4a037131e922/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Ecstatic Bliss</itunes:title>
+      <itunes:author>Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/a3a786ed-8748-400c-a904-5ce1f61ae984/3000x3000/diana-alba-garden-square.jpg?aid=rss_feed"/>
+      <itunes:duration>01:15:03</itunes:duration>
+      <itunes:summary>My mother Diana Wright Troxell is an artist and face painter - business owner. </itunes:summary>
+      <itunes:subtitle>My mother Diana Wright Troxell is an artist and face painter - business owner. </itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>27</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">1b6a55a7-2383-42ca-acdd-d65c7df7bdbb</guid>
+      <title>It&apos;s About the Opportunity</title>
+      <description><![CDATA[Brian Young, software developer, father, maker, home owner, and good friend.]]></description>
+      <pubDate>Thu, 27 Jan 2022 07:00:00 +0000</pubDate>
+      <author>lyle@troxell.com (Brian Young, Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/its-about-the-opportunity-zr78hrFR</link>
+      <enclosure length="41269370" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/7f6b7408-d36c-4466-a36f-1b370dad62b7/audio/4cf8758d-0af2-4c17-91a4-2890db91a4fe/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>It&apos;s About the Opportunity</itunes:title>
+      <itunes:author>Brian Young, Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/c602a57e-875d-4da5-92f8-d81aee3e399d/3000x3000/img-2404-square.jpg?aid=rss_feed"/>
+      <itunes:duration>01:25:47</itunes:duration>
+      <itunes:summary>Brian Young, software developer, father, maker, home owner, and good friend.</itunes:summary>
+      <itunes:subtitle>Brian Young, software developer, father, maker, home owner, and good friend.</itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>26</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">b4de45f4-bd32-42f0-a477-d4e1586e4c59</guid>
+      <title>In a Rock Tumbler</title>
+      <description><![CDATA[Bonnie Jean Primbsch is a former radio broadcaster, an artists, a gardener, a grief counselor, a conflict mediator, and does her best not to Bogart the Flow.]]></description>
+      <pubDate>Wed, 26 Jan 2022 07:50:00 +0000</pubDate>
+      <author>lyle@troxell.com (Bonnie Jean Primbsch, Lyle Troxell, Deana Zachary, Virgina Wright)</author>
+      <link>https://lwl.troxell.com/episodes/in-a-rock-tumbler-odaT1Izu</link>
+      <enclosure length="30779939" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/d85182f1-b48a-4852-96c6-14b49d566e79/audio/80fa286d-0f70-40a3-92a6-40f2c43e6613/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>In a Rock Tumbler</itunes:title>
+      <itunes:author>Bonnie Jean Primbsch, Lyle Troxell, Deana Zachary, Virgina Wright</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/cff60b33-21dd-4b58-8e60-7cff29d9f913/3000x3000/2014-02-15-985-squre.jpg?aid=rss_feed"/>
+      <itunes:duration>01:03:50</itunes:duration>
+      <itunes:summary>Bonnie Jean Primbsch is a former radio broadcaster, an artists, a gardener, a grief counselor, a conflict mediator, and does her best not to Bogart the Flow.</itunes:summary>
+      <itunes:subtitle>Bonnie Jean Primbsch is a former radio broadcaster, an artists, a gardener, a grief counselor, a conflict mediator, and does her best not to Bogart the Flow.</itunes:subtitle>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>25</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">d13fbc34-5ba5-4147-8f08-29ccb488e4ee</guid>
+      <title>30 summers and 5 billion years</title>
+      <description><![CDATA[<p>Checkout Emerson's book <a href="https://emersonmurray.squarespace.com/murder-capital-of-the-world ">Murder Capital of the World</a>.<br />Em and I made a podcast in 2008 about new Media - <a href="https://mediasoundoff.com/">Media Sound Off</a>.</p>
+]]></description>
+      <pubDate>Tue, 25 Jan 2022 07:50:00 +0000</pubDate>
+      <author>lyle@troxell.com (Lyle Troxell, Emerson Murray)</author>
+      <link>https://lwl.troxell.com/episodes/30-summers-and-5-billion-years-9HRi9W15</link>
+      <content:encoded><![CDATA[<p>Checkout Emerson's book <a href="https://emersonmurray.squarespace.com/murder-capital-of-the-world ">Murder Capital of the World</a>.<br />Em and I made a podcast in 2008 about new Media - <a href="https://mediasoundoff.com/">Media Sound Off</a>.</p>
+]]></content:encoded>
+      <enclosure length="36076875" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/ce31a78e-6a72-40eb-9c4d-62bb486cfee3/audio/d1f4a5c4-0722-4978-9170-22d6a102c9d4/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>30 summers and 5 billion years</itunes:title>
+      <itunes:author>Lyle Troxell, Emerson Murray</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/aedecfd8-f177-4da4-9187-667283115ee4/3000x3000/271296753-314400250630383-6396709169796909169-n-square.jpg?aid=rss_feed"/>
+      <itunes:duration>01:14:12</itunes:duration>
+      <itunes:summary>Emerson Murray, is an author, painter, film maker, gamer, radio-DJ, inaction figure maker, and an inspiration. I met Emerson in Highschool, he handed me a camera and told me to take pictures. He made me a bit character in a sci-fi melodrama, he made me a lead in a small black and white film, and we spent more then a decade battling aliens and creating worlds together.</itunes:summary>
+      <itunes:subtitle>Emerson Murray, is an author, painter, film maker, gamer, radio-DJ, inaction figure maker, and an inspiration. I met Emerson in Highschool, he handed me a camera and told me to take pictures. He made me a bit character in a sci-fi melodrama, he made me a lead in a small black and white film, and we spent more then a decade battling aliens and creating worlds together.</itunes:subtitle>
+      <itunes:keywords>santa cruz, murder capital of the world, author</itunes:keywords>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>24</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">5d76e73e-f080-4c56-a8ee-3cdd57007c88</guid>
+      <title>Gwendolyn, Stories of Hot Glue</title>
+      <description><![CDATA[My middle child Gwendolyn joins me for a late night chat about shows we like that are problematic, voices, friendship, and stories of bad parenting and hot glue.]]></description>
+      <pubDate>Mon, 24 Jan 2022 07:15:00 +0000</pubDate>
+      <author>lyle@troxell.com (Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/gwendolyn-stories-of-hot-glue-mweP5hgt</link>
+      <enclosure length="22689512" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/4b950ed1-93f4-4df7-8ae5-a0c74a4bbc58/audio/9c625efe-2f0c-4de5-8337-4ca24fdbf6b9/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Gwendolyn, Stories of Hot Glue</itunes:title>
+      <itunes:author>Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/b96c7221-a55b-4921-b8c8-775ea2a453b4/3000x3000/img-1903-square.jpg?aid=rss_feed"/>
+      <itunes:duration>00:47:04</itunes:duration>
+      <itunes:summary>My middle child Gwendolyn joins me for a late night chat about shows we like that are problematic, voices, friendship, and stories of bad parenting and hot glue.</itunes:summary>
+      <itunes:subtitle>My middle child Gwendolyn joins me for a late night chat about shows we like that are problematic, voices, friendship, and stories of bad parenting and hot glue.</itunes:subtitle>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>23</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">3adac7b5-0492-4feb-8acc-2113f19101c4</guid>
+      <title>Learning to Learn, Empathy, Curiosity</title>
+      <description><![CDATA[<ul><li><a href="https://www.duolingo.com/">DuoLingo</a> Learn a Language with an app?</li><li><a href="https://en.wikipedia.org/wiki/Luis_von_Ahn">Luis von Ahn</a></li></ul><p>Wanna hear more from Warren, check out my episodes with him on <a href="https://geekspeak.org">GeekSpeak.org</a> - or checkout his book <a href="https://mitpress.mit.edu/books/software-arts">The Software Arts</a> .</p><p>Fun quote from Warren about being an academic: "You are always in your head and your head is somewhere else."</p>
+]]></description>
+      <pubDate>Sun, 23 Jan 2022 07:35:00 +0000</pubDate>
+      <author>lyle@troxell.com (Warren Sack, Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/learning-to-learn-empathy-curiosity-6OQKze8G</link>
+      <content:encoded><![CDATA[<ul><li><a href="https://www.duolingo.com/">DuoLingo</a> Learn a Language with an app?</li><li><a href="https://en.wikipedia.org/wiki/Luis_von_Ahn">Luis von Ahn</a></li></ul><p>Wanna hear more from Warren, check out my episodes with him on <a href="https://geekspeak.org">GeekSpeak.org</a> - or checkout his book <a href="https://mitpress.mit.edu/books/software-arts">The Software Arts</a> .</p><p>Fun quote from Warren about being an academic: "You are always in your head and your head is somewhere else."</p>
+]]></content:encoded>
+      <enclosure length="55207077" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/6060803f-2a8b-498c-864e-f234b9d6131c/audio/3df1c68d-1ee5-480b-abfb-755f4105fb99/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Learning to Learn, Empathy, Curiosity</itunes:title>
+      <itunes:author>Warren Sack, Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/30cd056f-4f42-4d0f-bcf5-7929aac7f995/3000x3000/img-5423-square.jpg?aid=rss_feed"/>
+      <itunes:duration>01:54:44</itunes:duration>
+      <itunes:summary>Warren Sack joins me for an after dinner conversation about learning language, academic tenure, education, politics, and more.</itunes:summary>
+      <itunes:subtitle>Warren Sack joins me for an after dinner conversation about learning language, academic tenure, education, politics, and more.</itunes:subtitle>
+      <itunes:keywords>curiosity, learn to learn, empathy</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>22</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">f962abca-84b9-4872-b3f5-2e03fd3a0682</guid>
+      <title>Authentic Voice</title>
+      <description><![CDATA[<p>We talk about these three shows (no spoilers)</p><ul><li>Bandersnatch</li><li>Pen15</li><li>Love is Blind</li></ul>
+]]></description>
+      <pubDate>Sat, 22 Jan 2022 07:40:00 +0000</pubDate>
+      <author>lyle@troxell.com (Archana Kumar, Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/authentic-voice-TlADM6t_</link>
+      <content:encoded><![CDATA[<p>We talk about these three shows (no spoilers)</p><ul><li>Bandersnatch</li><li>Pen15</li><li>Love is Blind</li></ul>
+]]></content:encoded>
+      <enclosure length="23881703" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/5adc7595-9071-4ed6-8731-15be6fa2eaf9/audio/c32719f3-d8d5-4171-8270-d0c18fabba7d/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Authentic Voice</itunes:title>
+      <itunes:author>Archana Kumar, Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/3c15718a-215d-42c6-bc7e-60f6c1f7922f/3000x3000/archana-kumar-img-5992.jpg?aid=rss_feed"/>
+      <itunes:duration>00:49:34</itunes:duration>
+      <itunes:summary>Archana Kumar speaks about language, her authentic voice, songs she no longer likes, television shows she loves, and a bit more. This episode is fun.</itunes:summary>
+      <itunes:subtitle>Archana Kumar speaks about language, her authentic voice, songs she no longer likes, television shows she loves, and a bit more. This episode is fun.</itunes:subtitle>
+      <itunes:keywords>love is blind, pen15</itunes:keywords>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>21</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">2b9d7fa5-e7cf-4e3c-b623-a16b523a17af</guid>
+      <title>Perth, Climate Change, and Germany Reunification</title>
+      <description><![CDATA[Brenna Pavey shares her experience writing about investing in climate change, her time in Germany, and settling in Australia.
+]]></description>
+      <pubDate>Fri, 21 Jan 2022 07:50:00 +0000</pubDate>
+      <author>lyle@troxell.com (Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/perth-climate-change-and-germany-reunification-ybNIQjC2</link>
+      <enclosure length="44555161" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/a1b709bd-bfcd-4001-aa16-979fdb1982ea/audio/9fc58a38-105b-4de8-8338-1799b3b95cf0/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Perth, Climate Change, and Germany Reunification</itunes:title>
+      <itunes:author>Lyle Troxell</itunes:author>
+      <itunes:duration>01:32:15</itunes:duration>
+      <itunes:summary>Brenna Pavey shares her experience writing about investing in climate change, her time in Germany, and settling in Australia.
+</itunes:summary>
+      <itunes:subtitle>Brenna Pavey shares her experience writing about investing in climate change, her time in Germany, and settling in Australia.
+</itunes:subtitle>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>20</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">93f27237-5169-41d6-ab54-80c7b246380a</guid>
+      <title>Clothes on the Floor</title>
+      <description><![CDATA[<ul><li><a href="https://www.linkedin.com/in/michaellopp/">Michael Lopp's LinkedIn Story</a></li><li><a href="https://randsinrepose.com/">Rands in Repose</a> - Michael's blog</li></ul>
+]]></description>
+      <pubDate>Thu, 20 Jan 2022 07:20:00 +0000</pubDate>
+      <author>lyle@troxell.com (Michael Lopp, Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/clothes-on-the-floor-4HtI2tPY</link>
+      <content:encoded><![CDATA[<ul><li><a href="https://www.linkedin.com/in/michaellopp/">Michael Lopp's LinkedIn Story</a></li><li><a href="https://randsinrepose.com/">Rands in Repose</a> - Michael's blog</li></ul>
+]]></content:encoded>
+      <enclosure length="24664440" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/e9d9cabd-33c7-4fc8-a706-259a22957a0b/audio/71a29de9-ee85-4a34-8714-db156401f586/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Clothes on the Floor</itunes:title>
+      <itunes:author>Michael Lopp, Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/d68990db-48a1-42b6-8357-d71517105003/3000x3000/lyleandlopp.jpg?aid=rss_feed"/>
+      <itunes:duration>00:51:01</itunes:duration>
+      <itunes:summary>Michael Lopp is a writer, public speaker, leader in leadership, senior director at Apple, and Rands on the internet. 
+Michael and I do a podcast called The Important Thing, and while recording I asked him to be my guest on Lunch with Lyle.</itunes:summary>
+      <itunes:subtitle>Michael Lopp is a writer, public speaker, leader in leadership, senior director at Apple, and Rands on the internet. 
+Michael and I do a podcast called The Important Thing, and while recording I asked him to be my guest on Lunch with Lyle.</itunes:subtitle>
+      <itunes:keywords>apple, leadership</itunes:keywords>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>19</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">f709b07f-c118-4d90-a406-68ae70e304a8</guid>
+      <title>Delegate, Automate, Concentrate</title>
+      <description><![CDATA[<p>Quincy mentioned two corse that would be cool to check out:</p><ul><li> <a href="https://www.freecodecamp.org/news/responsive-web-design-certification-redesigned/">Learn Responsive Web Design by Building 20 Projects</a></li><li> <a href="https://www.freecodecamp.org/news/how-to-run-freecodecamps-relational-databases-curriculum-using-docker-vscode-and-coderoad/">Relational Database Course</a></li></ul>
+]]></description>
+      <pubDate>Wed, 19 Jan 2022 07:20:00 +0000</pubDate>
+      <author>lyle@troxell.com (Quincy Larson, Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/delegate-automate-concentrate-L2E5i6J_</link>
+      <content:encoded><![CDATA[<p>Quincy mentioned two corse that would be cool to check out:</p><ul><li> <a href="https://www.freecodecamp.org/news/responsive-web-design-certification-redesigned/">Learn Responsive Web Design by Building 20 Projects</a></li><li> <a href="https://www.freecodecamp.org/news/how-to-run-freecodecamps-relational-databases-curriculum-using-docker-vscode-and-coderoad/">Relational Database Course</a></li></ul>
+]]></content:encoded>
+      <enclosure length="33741600" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/a4720721-4db4-47e6-846e-04247e80a888/audio/02ad7c13-69c9-4636-b8f0-0d32407a707c/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Delegate, Automate, Concentrate</itunes:title>
+      <itunes:author>Quincy Larson, Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/7fedc116-b927-435b-82b9-7dd3b7ad24ae/3000x3000/dimdjnd1-400x400.jpg?aid=rss_feed"/>
+      <itunes:duration>01:10:08</itunes:duration>
+      <itunes:summary>Quincy Larson is founder and CEO of the non-profit software school freeCodeCamp, where anyone can go and lear to program for free. Quincy is making real change in the world.</itunes:summary>
+      <itunes:subtitle>Quincy Larson is founder and CEO of the non-profit software school freeCodeCamp, where anyone can go and lear to program for free. Quincy is making real change in the world.</itunes:subtitle>
+      <itunes:keywords>freecodecamp, software, computer science, school, learning</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>18</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">93226a7d-1ab9-4c15-adfd-67de197f74ae</guid>
+      <title>Motivation is Hard</title>
+      <description><![CDATA[<p>Archive.org is fantastic - <a href="https://archive.org/details/MLKDream">here is the source of what I played.</a></p>
+]]></description>
+      <pubDate>Tue, 18 Jan 2022 07:33:52 +0000</pubDate>
+      <author>lyle@troxell.com (Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/motivation-is-hard-9spxLQu3</link>
+      <content:encoded><![CDATA[<p>Archive.org is fantastic - <a href="https://archive.org/details/MLKDream">here is the source of what I played.</a></p>
+]]></content:encoded>
+      <enclosure length="10427157" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/cdf52bce-0e3d-4fda-932e-3e5b99ba113f/audio/8a7b0013-ccf6-43a4-8e2b-a1bb9da9abf2/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Motivation is Hard</itunes:title>
+      <itunes:author>Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/d1b7dc92-2c1a-44c2-b3d1-fe74b70c322e/3000x3000/24899382025-9ec6b6ad12-h.jpg?aid=rss_feed"/>
+      <itunes:duration>00:20:58</itunes:duration>
+      <itunes:summary>Difficulty with motivation... and it is Monday the 17th of January, so something special.</itunes:summary>
+      <itunes:subtitle>Difficulty with motivation... and it is Monday the 17th of January, so something special.</itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>17</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">24808661-7f4f-46f0-9f10-373a45503ef1</guid>
+      <title>50% Recap</title>
+      <description><![CDATA[Maggi joins me for a bit of a recap of the shows so far - and also shares her fun-a-day, journaling every day with the Bullet Journal Method - a great way to know yourself.]]></description>
+      <pubDate>Mon, 17 Jan 2022 07:55:00 +0000</pubDate>
+      <author>lyle@troxell.com (Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/50-recap-0iaVQmhk</link>
+      <enclosure length="29691272" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/fbd06f92-36d8-412f-9e6b-b6e380c3d87e/audio/6852f7e8-7b16-4c32-ae3f-911887cb0daa/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>50% Recap</itunes:title>
+      <itunes:author>Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/175bdfb2-4b49-4e75-8b6c-ee6c7b338d33/3000x3000/img-0933-square.jpg?aid=rss_feed"/>
+      <itunes:duration>01:01:27</itunes:duration>
+      <itunes:summary>Maggi joins me for a bit of a recap of the shows so far - and also shares her fun-a-day, journaling every day with the Bullet Journal Method - a great way to know yourself.</itunes:summary>
+      <itunes:subtitle>Maggi joins me for a bit of a recap of the shows so far - and also shares her fun-a-day, journaling every day with the Bullet Journal Method - a great way to know yourself.</itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>16</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">67489927-affa-4a01-801d-13a6bea08262</guid>
+      <title>Badass</title>
+      <description><![CDATA[Pearl Hoogs is an impressive young woman, she has built her own house (yurt) and lived off the grid, and she fights wild fires.... she also happens to be my niece and lives next door.
+I asked her to join me for "Lunch" to chat about her experiences and what she things about life. We talked all night - and maybe I will release more of the conversation at another time, but here is our second recording... where we tried to be more concise. Enjoy.]]></description>
+      <pubDate>Sun, 16 Jan 2022 07:20:00 +0000</pubDate>
+      <author>lyle@troxell.com (Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/badass-yNgfFf_8</link>
+      <enclosure length="22759071" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/f0550674-4485-48b4-8584-ce2146ebc59f/audio/5a4a9d34-e391-49dd-b7d2-24fa7ddab097/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Badass</itunes:title>
+      <itunes:author>Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/2d5d3472-6a96-46ba-b85a-a91aa00bdba4/3000x3000/i-m8sntxl-x4-square.jpg?aid=rss_feed"/>
+      <itunes:duration>00:47:15</itunes:duration>
+      <itunes:summary>Pearl Hoogs is an impressive young woman, she has built her own house (yurt) and lived off the grid, and she fights wild fires.... she also happens to be my niece and lives next door.
+I asked her to join me for &quot;Lunch&quot; to chat about her experiences and what she things about life. We talked all night - and maybe I will release more of the conversation at another time, but here is our second recording... where we tried to be more concise. Enjoy.</itunes:summary>
+      <itunes:subtitle>Pearl Hoogs is an impressive young woman, she has built her own house (yurt) and lived off the grid, and she fights wild fires.... she also happens to be my niece and lives next door.
+I asked her to join me for &quot;Lunch&quot; to chat about her experiences and what she things about life. We talked all night - and maybe I will release more of the conversation at another time, but here is our second recording... where we tried to be more concise. Enjoy.</itunes:subtitle>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>15</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">bf1efee6-d872-44a4-9fb8-03e2976ee9b8</guid>
+      <title>Beauty in Sharing your Struggle</title>
+      <description><![CDATA[<p>The photo  app we were talking about is <a href="https://vsco.co/">VSCO</a>.</p>
+]]></description>
+      <pubDate>Sat, 15 Jan 2022 07:55:00 +0000</pubDate>
+      <author>lyle@troxell.com (Lyle Troxell, Dixita Limbachia)</author>
+      <link>https://lwl.troxell.com/episodes/beauty-in-sharing-your-struggle-ktUH_JzV</link>
+      <content:encoded><![CDATA[<p>The photo  app we were talking about is <a href="https://vsco.co/">VSCO</a>.</p>
+]]></content:encoded>
+      <enclosure length="12172815" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/9e658863-05be-493f-931e-a524a414e591/audio/ede83d3c-938f-4beb-9c24-9d67b7568d5b/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Beauty in Sharing your Struggle</itunes:title>
+      <itunes:author>Lyle Troxell, Dixita Limbachia</itunes:author>
+      <itunes:duration>00:24:47</itunes:duration>
+      <itunes:summary>&quot;There is beauty in struggling, and sharing that struggling, and that&apos;s what helps you connect with other people&quot; - Dixita Limbachia, a new employee at Netflix. She got to know me through the WeAreNetflix podcast, and we get to know her a bit in this episode.</itunes:summary>
+      <itunes:subtitle>&quot;There is beauty in struggling, and sharing that struggling, and that&apos;s what helps you connect with other people&quot; - Dixita Limbachia, a new employee at Netflix. She got to know me through the WeAreNetflix podcast, and we get to know her a bit in this episode.</itunes:subtitle>
+      <itunes:keywords>social media</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>14</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">011f58a0-3826-47a2-8732-ec15938809c6</guid>
+      <title>Non Fungible Token Poppycock</title>
+      <description><![CDATA[I am not impressed nor excited about NFTs... and here is why.]]></description>
+      <pubDate>Fri, 14 Jan 2022 06:57:44 +0000</pubDate>
+      <author>lyle@troxell.com (Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/non-fungible-token-poppycock-yBKJt7NE</link>
+      <enclosure length="7914718" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/78d8d46c-46db-44f5-8d9f-ca6d7e05909e/audio/26b3048d-6274-4ecb-9712-8412751d7f83/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Non Fungible Token Poppycock</itunes:title>
+      <itunes:author>Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/a9a9fbae-f9bc-4731-ac5c-eb0bd13a2c27/3000x3000/nft-poppycock.jpg?aid=rss_feed"/>
+      <itunes:duration>00:16:16</itunes:duration>
+      <itunes:summary>I am not impressed nor excited about NFTs... and here is why.</itunes:summary>
+      <itunes:subtitle>I am not impressed nor excited about NFTs... and here is why.</itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">356c9150-ba57-465b-9bb1-664fa80d3c30</guid>
+      <title>Transforming Privilege</title>
+      <description><![CDATA[<p>Wendy Apperson joins Lyle to catch up and talk about the company she co-founded <a href="https://transformingprivilege.com/">Transforming Privilege.</a></p><p> </p>
+]]></description>
+      <pubDate>Thu, 13 Jan 2022 06:03:18 +0000</pubDate>
+      <author>lyle@troxell.com (Wendy Apperson, Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/transforming-privilege-_AuuQN0j</link>
+      <content:encoded><![CDATA[<p>Wendy Apperson joins Lyle to catch up and talk about the company she co-founded <a href="https://transformingprivilege.com/">Transforming Privilege.</a></p><p> </p>
+]]></content:encoded>
+      <enclosure length="30420386" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/8d0492d7-7b7d-45a9-843a-d2a2a0f9dc01/audio/368ee468-a621-4efd-9e05-e3d0fae1506d/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Transforming Privilege</itunes:title>
+      <itunes:author>Wendy Apperson, Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/340d2395-858c-48d2-900b-630ed57d7959/3000x3000/thumbnail.jpg?aid=rss_feed"/>
+      <itunes:duration>01:03:02</itunes:duration>
+      <itunes:summary>A conversation between two white people on learning to see white privilege and making changes to be anti-racist. </itunes:summary>
+      <itunes:subtitle>A conversation between two white people on learning to see white privilege and making changes to be anti-racist. </itunes:subtitle>
+      <itunes:keywords>anti-racist, self growth, white privilege</itunes:keywords>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">0c2765fa-04bc-47c8-a99c-f5f308e115ec</guid>
+      <title>Art is the Answer - Little People&apos;s Repertory Theater</title>
+      <description><![CDATA[<p>You can learn more about <a href="https://lprt.org/">Little People's Repertory Theatre</a> and even see pictures.</p>
+]]></description>
+      <pubDate>Wed, 12 Jan 2022 04:17:14 +0000</pubDate>
+      <author>lyle@troxell.com (Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/art-is-the-answer-little-peoples-repertory-theater-aHPvM2w2</link>
+      <content:encoded><![CDATA[<p>You can learn more about <a href="https://lprt.org/">Little People's Repertory Theatre</a> and even see pictures.</p>
+]]></content:encoded>
+      <enclosure length="24808351" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/2107fa99-d119-45ee-878d-34f92c443452/audio/82069a8b-fdec-4bcc-9114-ee3420dc64ec/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Art is the Answer - Little People&apos;s Repertory Theater</itunes:title>
+      <itunes:author>Lyle Troxell</itunes:author>
+      <itunes:duration>00:51:07</itunes:duration>
+      <itunes:summary>Janinne Chadwick has been running Little People&apos;s Reparatory theater for over 20 years, And it looks like she is going to stay with it making Ben Lomond, and the Santa Cruz mountains a richer place.</itunes:summary>
+      <itunes:subtitle>Janinne Chadwick has been running Little People&apos;s Reparatory theater for over 20 years, And it looks like she is going to stay with it making Ben Lomond, and the Santa Cruz mountains a richer place.</itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">54ab3d94-2196-4d0d-8261-2c83371a6aff</guid>
+      <title>Design Constantly Learning</title>
+      <description><![CDATA[User experience designer Ian Krabacher joins me for a discussion of, thoughtful communication, board games, designing software, technology disposability, hockey, and the opposite of isolation.]]></description>
+      <pubDate>Tue, 11 Jan 2022 07:45:00 +0000</pubDate>
+      <author>lyle@troxell.com (Ian Krabacher, Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/design-constantly-learning-v0n7VHe1</link>
+      <enclosure length="29539740" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/981640a1-29d1-4763-ad0b-0a26b1e7e558/audio/dd42f789-231b-4037-8c02-31c517ac78d5/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Design Constantly Learning</itunes:title>
+      <itunes:author>Ian Krabacher, Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/c9ac917e-815b-46ec-af4d-4431261a3fe1/3000x3000/arri-416-06-square.jpg?aid=rss_feed"/>
+      <itunes:duration>01:01:26</itunes:duration>
+      <itunes:summary>User experience designer Ian Krabacher joins me for a discussion of, thoughtful communication, board games, designing software, technology disposability, hockey, and the opposite of isolation.</itunes:summary>
+      <itunes:subtitle>User experience designer Ian Krabacher joins me for a discussion of, thoughtful communication, board games, designing software, technology disposability, hockey, and the opposite of isolation.</itunes:subtitle>
+      <itunes:keywords>design, hockey, ux design, board games</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">87c1c60b-ba7f-45f4-9bd4-f74cade5708f</guid>
+      <title>Tangentially</title>
+      <description><![CDATA[Maggi and I walk the dogs while chatting about the podcast.]]></description>
+      <pubDate>Mon, 10 Jan 2022 07:45:00 +0000</pubDate>
+      <author>lyle@troxell.com (Maggi Hoogs, Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/tangentially-Oo_QZK_9</link>
+      <enclosure length="18757107" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/a679cd71-4c92-4f8f-ad89-7e615bb9d1d7/audio/c32f987f-6aa9-4f9c-ab96-a028dbfb55a6/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Tangentially</itunes:title>
+      <itunes:author>Maggi Hoogs, Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/75f65eb2-0240-4714-9947-cc431d61020f/3000x3000/img-2747-square.jpg?aid=rss_feed"/>
+      <itunes:duration>00:25:20</itunes:duration>
+      <itunes:summary>Maggi and I walk the dogs while chatting about the podcast.</itunes:summary>
+      <itunes:subtitle>Maggi and I walk the dogs while chatting about the podcast.</itunes:subtitle>
+      <itunes:keywords>magnolia tree, dog walks</itunes:keywords>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">987b3db9-3d48-4059-b431-44833788e77e</guid>
+      <title>I Love Life</title>
+      <description><![CDATA[Seeing the world through Marina Troxell's voice will change you for the better.]]></description>
+      <pubDate>Sun, 9 Jan 2022 07:45:00 +0000</pubDate>
+      <author>lyle@troxell.com (Marina Troxell, Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/i-love-life-VWaEXr5u</link>
+      <enclosure length="47431731" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/762ae151-3ca8-4a79-ab7c-ad1c5663a19f/audio/0a63d98e-70c9-4a93-adc6-e76ef77ed41a/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>I Love Life</itunes:title>
+      <itunes:author>Marina Troxell, Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/71e3228c-06aa-47bf-bf11-5e19f946b49d/3000x3000/lyle-and-marina.jpg?aid=rss_feed"/>
+      <itunes:duration>01:37:44</itunes:duration>
+      <itunes:summary>Seeing the world through Marina Troxell&apos;s voice will change you for the better.</itunes:summary>
+      <itunes:subtitle>Seeing the world through Marina Troxell&apos;s voice will change you for the better.</itunes:subtitle>
+      <itunes:keywords>life, childhood, dialysis, inner voice, love</itunes:keywords>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">6b742db7-c9d9-44f4-a93e-d6b0d3b54ee0</guid>
+      <title>Burt Onions</title>
+      <description><![CDATA[On day 7 Lyle needed to trade sleep for a full episode. Join Lyle for an audio tour as he get's support from his youngest, River, and Maggi... while cooking dinner. ]]></description>
+      <pubDate>Sat, 8 Jan 2022 04:22:22 +0000</pubDate>
+      <author>lyle@troxell.com (Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/burt-onions-R6epTYW8</link>
+      <enclosure length="10103161" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/7c86aca8-aa6f-4fa4-b5b1-48cb2e7a6958/audio/70c4ef95-c590-45a1-93a5-05976c0ddc45/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Burt Onions</itunes:title>
+      <itunes:author>Lyle Troxell</itunes:author>
+      <itunes:duration>00:13:39</itunes:duration>
+      <itunes:summary>On day 7 Lyle needed to trade sleep for a full episode. Join Lyle for an audio tour as he get&apos;s support from his youngest, River, and Maggi... while cooking dinner. </itunes:summary>
+      <itunes:subtitle>On day 7 Lyle needed to trade sleep for a full episode. Join Lyle for an audio tour as he get&apos;s support from his youngest, River, and Maggi... while cooking dinner. </itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">d767d29a-cf09-40d9-926c-81d989af188d</guid>
+      <title>The Hardest Job</title>
+      <description><![CDATA[In 1999 Jon Compton and I played board games, built internet things for a telco, and debated. And because of this podcast Jon is back in my life right when he is going through the hardest job, the death of his father. Jon works for the DOD simulating conflict. He has a sharp mind and some wonderful ideas on why and how we can make the world better. It's really late - I'm not sure this is all making sense. So please forgive me.]]></description>
+      <pubDate>Fri, 7 Jan 2022 07:45:00 +0000</pubDate>
+      <author>lyle@troxell.com (Jon Compton, Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/conversations-before-death-bRZoIJwV</link>
+      <enclosure length="36819944" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/1ef84c6c-a2c9-4de3-8b66-89803cafb6d3/audio/ef1ce56a-452f-421d-a075-fa4281fc467d/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>The Hardest Job</itunes:title>
+      <itunes:author>Jon Compton, Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/6e875b15-e513-47a5-ae62-d5b6094f9faa/3000x3000/joncompton-holding-drink.jpg?aid=rss_feed"/>
+      <itunes:duration>01:16:08</itunes:duration>
+      <itunes:summary>In 1999 Jon Compton and I played board games, built internet things for a telco, and debated. And because of this podcast Jon is back in my life right when he is going through the hardest job, the death of his father. Jon works for the DOD simulating conflict. He has a sharp mind and some wonderful ideas on why and how we can make the world better. It&apos;s really late - I&apos;m not sure this is all making sense. So please forgive me.</itunes:summary>
+      <itunes:subtitle>In 1999 Jon Compton and I played board games, built internet things for a telco, and debated. And because of this podcast Jon is back in my life right when he is going through the hardest job, the death of his father. Jon works for the DOD simulating conflict. He has a sharp mind and some wonderful ideas on why and how we can make the world better. It&apos;s really late - I&apos;m not sure this is all making sense. So please forgive me.</itunes:subtitle>
+      <itunes:keywords>games, dod, death, politics</itunes:keywords>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">1f05da4b-a09e-4e02-bc42-7ffcb9ce0b84</guid>
+      <title>The Primeagen</title>
+      <description><![CDATA[<p>You can go watch <a href="https://www.twitch.tv/theprimeagen">ThePrimeagen on Twitch</a> or check <a href="https://www.youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw">him out on YouTube</a> where he does lots of software learning videos.</p><p>We mention NRDP - here is a great video on what <a href="https://www.youtube.com/watch?v=XeAPvn96Y0Y">Michael does at Netflix</a>.</p>
+]]></description>
+      <pubDate>Thu, 6 Jan 2022 07:40:00 +0000</pubDate>
+      <author>lyle@troxell.com (Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/the-primeagen-T0W4946U</link>
+      <content:encoded><![CDATA[<p>You can go watch <a href="https://www.twitch.tv/theprimeagen">ThePrimeagen on Twitch</a> or check <a href="https://www.youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw">him out on YouTube</a> where he does lots of software learning videos.</p><p>We mention NRDP - here is a great video on what <a href="https://www.youtube.com/watch?v=XeAPvn96Y0Y">Michael does at Netflix</a>.</p>
+]]></content:encoded>
+      <enclosure length="23820418" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/76d494ae-5cf8-4faa-b0f9-1c4b6eacedd8/audio/fa3be4be-a567-4272-909a-ad408d4b0456/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>The Primeagen</itunes:title>
+      <itunes:author>Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/a7139c59-0006-477b-9ace-ca7202b21c8a/3000x3000/img-3652.jpg?aid=rss_feed"/>
+      <itunes:duration>00:49:03</itunes:duration>
+      <itunes:summary>Michael Paulson, got Covid, streams programing on Twitch, believes in &quot;Love God, Love People, and Love the Planet&quot;, lives in the present with his family, gives a lot of money away to charity, and has fun doing all of it.</itunes:summary>
+      <itunes:subtitle>Michael Paulson, got Covid, streams programing on Twitch, believes in &quot;Love God, Love People, and Love the Planet&quot;, lives in the present with his family, gives a lot of money away to charity, and has fun doing all of it.</itunes:subtitle>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">34757689-2e7f-4db9-9ebb-9df493e6c955</guid>
+      <title>Rebooting with Softness</title>
+      <description><![CDATA[Dr. Juko Holiday seems to fill many people's lives with joy. She runs Ease Mountain Yoga in Ben Lomond, CA, which has become a great center of community our small mountain valley. When we were thinking about impressive people with something to teach about having a full-filling life, Juko came right to the top of our list. Have a listen, you will see why.]]></description>
+      <pubDate>Wed, 5 Jan 2022 07:35:00 +0000</pubDate>
+      <author>lyle@troxell.com (Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/rebooting-with-softness-zeJEIWq8</link>
+      <enclosure length="15614980" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/cae0ee6e-b8da-49dc-a197-f01370c4d9dc/audio/6533d1ae-a5ba-4353-adb7-736fe681ee16/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Rebooting with Softness</itunes:title>
+      <itunes:author>Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/fcee9579-1a90-4773-b1d3-947e10813066/3000x3000/img-0698-corrected.jpg?aid=rss_feed"/>
+      <itunes:duration>00:31:58</itunes:duration>
+      <itunes:summary>Dr. Juko Holiday seems to fill many people&apos;s lives with joy. She runs Ease Mountain Yoga in Ben Lomond, CA, which has become a great center of community our small mountain valley. When we were thinking about impressive people with something to teach about having a full-filling life, Juko came right to the top of our list. Have a listen, you will see why.</itunes:summary>
+      <itunes:subtitle>Dr. Juko Holiday seems to fill many people&apos;s lives with joy. She runs Ease Mountain Yoga in Ben Lomond, CA, which has become a great center of community our small mountain valley. When we were thinking about impressive people with something to teach about having a full-filling life, Juko came right to the top of our list. Have a listen, you will see why.</itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">02968621-9545-469a-b05e-79a17b5f6a1d</guid>
+      <title>Question Your Perception</title>
+      <description><![CDATA[<p>Ben mentioned...</p><ul><li><a href="https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/">The Toxoplasma of Rage </a></li><li><a href="https://twitter.com/slatestarcodex">Scott Alexander</a></li></ul>
+]]></description>
+      <pubDate>Tue, 4 Jan 2022 07:50:19 +0000</pubDate>
+      <author>lyle@troxell.com (Ben Jaffe, Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/question-your-perception-VeNAmU7L</link>
+      <content:encoded><![CDATA[<p>Ben mentioned...</p><ul><li><a href="https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/">The Toxoplasma of Rage </a></li><li><a href="https://twitter.com/slatestarcodex">Scott Alexander</a></li></ul>
+]]></content:encoded>
+      <enclosure length="43329940" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/2ff1a165-3b7e-441e-a505-fcd019b6035e/audio/7c7fc9d4-81af-4dc3-aaa1-2c29428e2bee/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Question Your Perception</itunes:title>
+      <itunes:author>Ben Jaffe, Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/bae28bae-9428-49ef-b37e-b79311ba303f/3000x3000/img-2034.jpg?aid=rss_feed"/>
+      <itunes:duration>01:29:42</itunes:duration>
+      <itunes:summary>Ben Jaffe joins me to shed some light on how much of what we perceive is created by our mind. And the battle between us and the big media companies that are trying to use the bugs in our mind to steal our time.</itunes:summary>
+      <itunes:subtitle>Ben Jaffe joins me to shed some light on how much of what we perceive is created by our mind. And the battle between us and the big media companies that are trying to use the bugs in our mind to steal our time.</itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">e3b71c8b-d6d9-4d87-902e-18cfe2495cc1</guid>
+      <title>Action is the Antidote</title>
+      <description><![CDATA[<p>Wes Modes's "<a href="https://peoplesriverhistory.us/author/wmodes/">A Secret History of the American River People</a>" project.</p><p>Listener Morgan suggested <a href="https://www.youtube.com/watch?app=desktop&v=tu9AoQgtOCA" target="_blank">this clip "</a><a href="https://m.youtube.com/watch?v=tu9AoQgtOCA" target="_blank">Mario Savio | Bodies upon the Gears "</a> that is much like the sentiment from Wes that he attributed to <a href="https://en.wikipedia.org/wiki/Henry_David_Thoreau">Henry David Thoreau</a>.</p>
+]]></description>
+      <pubDate>Mon, 3 Jan 2022 07:05:34 +0000</pubDate>
+      <author>lyle@troxell.com (Wes Modes, Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/action-is-the-antidote-S3aW9Kfq</link>
+      <content:encoded><![CDATA[<p>Wes Modes's "<a href="https://peoplesriverhistory.us/author/wmodes/">A Secret History of the American River People</a>" project.</p><p>Listener Morgan suggested <a href="https://www.youtube.com/watch?app=desktop&v=tu9AoQgtOCA" target="_blank">this clip "</a><a href="https://m.youtube.com/watch?v=tu9AoQgtOCA" target="_blank">Mario Savio | Bodies upon the Gears "</a> that is much like the sentiment from Wes that he attributed to <a href="https://en.wikipedia.org/wiki/Henry_David_Thoreau">Henry David Thoreau</a>.</p>
+]]></content:encoded>
+      <enclosure length="37756617" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/1c75f119-7c23-4fe4-838d-06ebdbba7591/audio/bd5e047e-92f6-4d52-b3c3-41b9b42d3267/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Action is the Antidote</itunes:title>
+      <itunes:author>Wes Modes, Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/969744ac-0afb-46f4-9b8a-9610f3d9525d/3000x3000/2013-04-27-1625-nef.jpg?aid=rss_feed"/>
+      <itunes:duration>01:18:05</itunes:duration>
+      <itunes:summary>Artists, Activist, Anarchist and Professor Wes Modes chats with me about Teaching, Service Animals, his Shanty Boat Project, Making for Burning Man, Protesting, Police, Purpose, optimism and much more. </itunes:summary>
+      <itunes:subtitle>Artists, Activist, Anarchist and Professor Wes Modes chats with me about Teaching, Service Animals, his Shanty Boat Project, Making for Burning Man, Protesting, Police, Purpose, optimism and much more. </itunes:subtitle>
+      <itunes:keywords>anarchy, optimism, protesting, support animals</itunes:keywords>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">c427fe8e-de8e-4c4b-b7d5-b9087ca21ae5</guid>
+      <title>Connection - Adriana</title>
+      <description><![CDATA[Adriana has stayed connected with people through out her life and built both a wonderful support structure and also a sense of belonging.  She has also picked up the banjo, so let's go get a theme-song and an interesting conversation.]]></description>
+      <pubDate>Sun, 2 Jan 2022 06:30:00 +0000</pubDate>
+      <author>lyle@troxell.com (Adriana Troxell Elliot, Lyle Troxell)</author>
+      <link>https://lwl.troxell.com/episodes/connection-adriana-y9oVZII2</link>
+      <enclosure length="30102148" type="audio/mpeg" url="https://cdn.simplecast.com/audio/7bb2b168-57a3-47d0-a1a8-ec550317f0e1/episodes/117ad219-cfc7-46ae-a0d9-cbbe07147199/audio/5ff939a7-7e7d-42cf-8e9f-5a872e54cc09/default_tc.mp3?aid=rss_feed&amp;feed=jtpcol_C"/>
+      <itunes:title>Connection - Adriana</itunes:title>
+      <itunes:author>Adriana Troxell Elliot, Lyle Troxell</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/9a684ca0-1d82-4310-abf0-f59df001fd73/c4d20f49-ce06-4f45-9441-7128c280ba22/3000x3000/boulder-creek-va-diana-kids-00268-1977.jpg?aid=rss_feed"/>
+      <itunes:duration>01:02:06</itunes:duration>
+      <itunes:summary>Adriana has stayed connected with people through out her life and built both a wonderful support structure and also a sense of belonging.  She has also picked up the banjo, so let&apos;s go get a theme-song and an interesting conversation.</itunes:summary>
+      <itunes:subtitle>Adriana has stayed connected with people through out her life and built both a wonderful support structure and also a sense of belonging.  She has also picked up the banjo, so let&apos;s go get a theme-song and an interesting conversation.</itunes:subtitle>
+      <itunes:keywords>letter writing, connection, banjo</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+  </channel>
+</rss>
