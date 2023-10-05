@@ -1,3 +1,13 @@
+# Lunch with Lyle Podcast Website
+This powers lwl.troxell.com. Designed as a static website - generated mostly from the rss file directly.
+
+Using Svelte server files I read the RSS and produce the website from that file. 
+Feel free to grab this as a sample to do your own website.
+
+
+---
+here down is the svelte generated readme
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
